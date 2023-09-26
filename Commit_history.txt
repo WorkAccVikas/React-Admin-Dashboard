@@ -1,3 +1,8 @@
 1. Completed Initial Setup and Sidebar.
 
 2. Completed Initial Setup of Context API.
+
+3. Completed Navbar.
+    Here, Modern Navbar with sidebar open by default on large device and close on smaller device.
+    In Sidebar click on any item in it sidebar automatically close.
+     
