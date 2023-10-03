@@ -4,5 +4,6 @@
 
 3. Completed Navbar.
     Here, Modern Navbar with sidebar open by default on large device and close on smaller device.
-    In Sidebar click on any item in it sidebar automatically close.
-     
+    In Sidebar, click on any item in it sidebar automatically close.
+
+4. Completed Homepage.
