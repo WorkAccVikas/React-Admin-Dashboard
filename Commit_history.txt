@@ -7,3 +7,5 @@
     In Sidebar, click on any item in it sidebar automatically close.
 
 4. Completed Homepage.
+
+5. Completed Revenue Section.
