@@ -9,3 +9,5 @@
 4. Completed Homepage.
 
 5. Completed Revenue Section.
+
+6. Changes in Readme.md
